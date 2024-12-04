@@ -1,8 +1,11 @@
-# React + Vite
+Rentify - Luxury Real Estate Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description:
+Rentify is a modern web application designed for luxury real estate rentals and sales. 
+Built using React.js, the platform offers a seamless and engaging user experience for prospective renters and buyers to explore premium properties. 
+The website combines a sleek design with robust functionality to make property discovery intuitive and efficient.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used:
+React.js
+CSS
+Bootstrap 
